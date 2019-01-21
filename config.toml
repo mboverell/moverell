@@ -12,10 +12,10 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "moverell"
 
 [params]
-    author = "Michael Bertram Overell"
+    author = "Michael Overell"
     description = "Michael Overell's personal website"
     keywords = "blog,personal"
     info = "work in progress"
