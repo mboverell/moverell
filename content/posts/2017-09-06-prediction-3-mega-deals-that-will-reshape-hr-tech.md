@@ -5,7 +5,7 @@ date: 2017-09-06T08:00:30+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=720
-permalink: /2017/09/prediction-3-mega-deals-that-will-reshape-hr-tech/
+slug: "/2017/09/prediction-3-mega-deals-that-will-reshape-hr-tech/"
 image: /images/2019/01/3-predictions.jpeg
 categories:
   - HR Tech

@@ -5,11 +5,7 @@ date: 2012-01-16T12:20:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/01/16/2011-the-tech-bubble-where-australian-venture
-permalink: /2012/01/2011-the-tech-bubble-where-australian-venture/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/15943160835/2011-the-tech-bubble-where-australian-venture
-tumblr_mboverell_id:
-  - "15943160835"
+slug: "/2012/01/2011-the-tech-bubble-where-australian-venture/"
 dsq_thread_id:
   - "5098384650"
 categories:

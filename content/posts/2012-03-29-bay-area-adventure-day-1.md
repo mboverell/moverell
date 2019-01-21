@@ -5,11 +5,7 @@ date: 2012-03-29T08:42:54+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/03/29/bay-area-adventure-day-1
-permalink: /2012/03/bay-area-adventure-day-1/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/20109821883/bay-area-adventure-day-1
-tumblr_mboverell_id:
-  - "20109821883"
+slug: "/2012/03/bay-area-adventure-day-1/"
 dsq_thread_id:
   - "4445768352"
 categories:

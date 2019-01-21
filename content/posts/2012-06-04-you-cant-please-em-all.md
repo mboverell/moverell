@@ -5,11 +5,7 @@ date: 2012-06-04T11:12:22+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/06/04/you-cant-please-em-all
-permalink: /2012/06/you-cant-please-em-all/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/24397435541/you-cant-please-em-all
-tumblr_mboverell_id:
-  - "24397435541"
+slug: "/2012/06/you-cant-please-em-all/"
 image: /wp-content/uploads/2012/06/tumblr_m53asumecb1r5o6bio1_1280.png
 categories:
   - HR Tech

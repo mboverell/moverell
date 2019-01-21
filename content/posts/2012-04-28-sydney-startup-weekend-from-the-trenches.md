@@ -5,11 +5,7 @@ date: 2012-04-28T08:19:51+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/04/28/sydney-startup-weekend-from-the-trenches
-permalink: /2012/04/sydney-startup-weekend-from-the-trenches/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/21967209800/sydney-startup-weekend-from-the-trenches
-tumblr_mboverell_id:
-  - "21967209800"
+slug: "/2012/04/sydney-startup-weekend-from-the-trenches/"
 dsq_thread_id:
   - "4831202420"
 categories:

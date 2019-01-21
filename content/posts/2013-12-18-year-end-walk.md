@@ -5,14 +5,10 @@ date: 2013-12-18T12:48:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/12/18/year-end-walk
-permalink: /2013/12/year-end-walk/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/70385366834/year-end-walk
-tumblr_mboverell_id:
-  - "70385366834"
+slug: "/2013/12/year-end-walk/"
 dsq_thread_id:
   - "4445632972"
-image: /wp-content/uploads/2013/12/tumblr_my06ycfkxj1r5o6bio1_1280.jpg
+image: /images/2013/12/tumblr_my06ycfkxj1r5o6bio1_1280.jpg
 categories:
   - RecruitLoop
   - Startup Culture

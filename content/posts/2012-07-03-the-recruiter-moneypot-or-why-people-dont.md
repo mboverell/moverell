@@ -5,11 +5,7 @@ date: 2012-07-03T08:03:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/07/03/the-recruiter-moneypot-or-why-people-dont
-permalink: /2012/07/the-recruiter-moneypot-or-why-people-dont/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/26409196504/the-recruiter-moneypot-or-why-people-dont
-tumblr_mboverell_id:
-  - "26409196504"
+slug: "/2012/07/the-recruiter-moneypot-or-why-people-dont/"
 dsq_thread_id:
   - "4445676617"
 image: /wp-content/uploads/2012/07/tumblr_m6kr6i36hv1r5o6bio1_250.jpg

@@ -5,7 +5,7 @@ date: 2016-10-11
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?page_id=689
-permalink: /2016/10/going-remote-first/
+slug: "/2016/10/going-remote-first/"
 image:
 categories:
   - recruitloop

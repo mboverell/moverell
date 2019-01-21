@@ -5,7 +5,7 @@ date: 2016-01-07T23:25:40+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=440
-permalink: /2016/01/why-you-wont-see-our-baby-on-facebook/
+slug: "/2016/01/why-you-wont-see-our-baby-on-facebook/"
 dsq_thread_id:
   - "4469859691"
 image: /images/2016/01/2015-12-26-08.50.40.jpg

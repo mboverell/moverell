@@ -5,11 +5,7 @@ date: 2012-04-10T08:18:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/04/10/growth-hacking-your-startup-with-dan-martell
-permalink: /2012/04/growth-hacking-your-startup-with-dan-martell/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/20833848973/growth-hacking-your-startup-with-dan-martell
-tumblr_mboverell_id:
-  - "20833848973"
+slug: "/2012/04/growth-hacking-your-startup-with-dan-martell/"
 dsq_thread_id:
   - "4559160823"
 categories:

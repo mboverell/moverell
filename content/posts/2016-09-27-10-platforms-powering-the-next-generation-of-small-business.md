@@ -5,7 +5,7 @@ date: 2016-09-27T04:59:28+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=560
-permalink: /2016/09/10-platforms-powering-the-next-generation-of-small-business/
+slug: "/2016/09/10-platforms-powering-the-next-generation-of-small-business/"
 image: /images/2016/09/2015-10-21-07.28.27.jpg
 categories:
   - Modern Work

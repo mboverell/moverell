@@ -5,7 +5,7 @@ date: 2016-10-09T05:46:58+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=566
-permalink: /2016/10/4-nontraditional-workplaces-practices-that-win/
+slug: "/2016/10/4-nontraditional-workplaces-practices-that-win/"
 image: /wp-content/uploads/2016/10/qtq80-s8MPlZ.jpeg
 categories:
   - Modern Work

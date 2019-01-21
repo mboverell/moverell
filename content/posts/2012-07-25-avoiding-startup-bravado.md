@@ -5,11 +5,7 @@ date: 2012-07-25T14:21:24+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/07/25/avoiding-startup-bravado
-permalink: /2012/07/avoiding-startup-bravado/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/27981562578/avoiding-startup-bravado
-tumblr_mboverell_id:
-  - "27981562578"
+slug: "/2012/07/avoiding-startup-bravado/"
 dsq_thread_id:
   - "4445779694"
 categories:

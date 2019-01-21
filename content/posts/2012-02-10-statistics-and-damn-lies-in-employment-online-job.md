@@ -5,11 +5,7 @@ date: 2012-02-10T06:19:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/02/10/statistics-and-damn-lies-in-employment-online-job
-permalink: /2012/02/statistics-and-damn-lies-in-employment-online-job/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/17362122656/statistics-and-damn-lies-in-employment-online-job
-tumblr_mboverell_id:
-  - "17362122656"
+slug: "/2012/02/statistics-and-damn-lies-in-employment-online-job/"
 categories:
   - Uncategorized
 tags:

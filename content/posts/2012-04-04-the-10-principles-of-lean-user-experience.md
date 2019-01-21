@@ -5,11 +5,7 @@ date: 2012-04-04T01:53:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/04/04/the-10-principles-of-lean-user-experience
-permalink: /2012/04/the-10-principles-of-lean-user-experience/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/20443781199/the-10-principles-of-lean-user-experience
-tumblr_mboverell_id:
-  - "20443781199"
+slug: "/2012/04/the-10-principles-of-lean-user-experience/"
 dsq_thread_id:
   - "4461673917"
 categories:

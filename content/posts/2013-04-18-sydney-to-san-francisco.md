@@ -5,14 +5,10 @@ date: 2013-04-18T06:31:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/04/18/sydney-to-san-francisco
-permalink: /2013/04/sydney-to-san-francisco/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/48263599479/sydney-to-san-francisco
-tumblr_mboverell_id:
-  - "48263599479"
+slug: "/2013/04/sydney-to-san-francisco/"
 dsq_thread_id:
   - "4512549418"
-image: /wp-content/uploads/2013/04/tumblr_mlfubbciik1r5o6bio1_1280.jpg
+image: /images/2013/04/tumblr_mlfubbciik1r5o6bio1_1280.jpg
 categories:
   - RecruitLoop
   - Startup Culture

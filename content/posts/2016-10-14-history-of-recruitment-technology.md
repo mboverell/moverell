@@ -6,7 +6,7 @@ author: Michael Overell
 excerpt: 2016 is a watershed moment for the recruitment industry. LinkedIn and Monster are being acquired, and Careerbuilder is for sale. The ripples will span the entire industry. How will it impact you?
 layout: post
 guid: http://moverell.com/?p=584
-permalink: /2016/10/history-of-recruitment-technology/
+slug: "/2016/10/history-of-recruitment-technology/"
 image: /images/2016/10/qtq80-gvcL0L.jpeg
 categories:
   - HR Tech

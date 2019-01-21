@@ -5,7 +5,7 @@ date: 2016-12-12T15:45:57+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=614
-permalink: /2016/12/a-digital-detox/
+slug: "/2016/12/a-digital-detox/"
 image: /images/2016/12/2016-12-04-11.33.51.jpg
 categories:
   - Health

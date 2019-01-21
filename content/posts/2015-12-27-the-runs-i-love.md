@@ -5,7 +5,7 @@ date: 2015-12-27T12:05:59+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=256
-permalink: /2015/12/the-runs-i-love/
+slug: "/2015/12/the-runs-i-love/"
 geo_public:
   - "0"
 dsq_thread_id:

@@ -5,11 +5,7 @@ date: 2014-07-29T00:58:05+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2014/07/29/monoculture-sucks-the-case-for-diversity-in
-permalink: /2014/07/monoculture-sucks-the-case-for-diversity-in/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/114628423406/monoculture-sucks-the-case-for-diversity-in
-tumblr_mboverell_id:
-  - "114628423406"
+slug: "/2014/07/monoculture-sucks-the-case-for-diversity-in/"
 dsq_thread_id:
   - "4445627724"
 categories:

@@ -5,11 +5,7 @@ date: 2012-02-06T10:55:45+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/02/06/labor-efficiency-the-next-great-internet
-permalink: /2012/02/labor-efficiency-the-next-great-internet/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/17149309019/labor-efficiency-the-next-great-internet
-tumblr_mboverell_id:
-  - "17149309019"
+slug: "/2012/02/labor-efficiency-the-next-great-internet/"
 categories:
   - Uncategorized
 format: link

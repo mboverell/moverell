@@ -5,11 +5,7 @@ date: 2012-02-21T08:08:22+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/02/21/post-office-generation-or-how-microsoft-lost
-permalink: /2012/02/post-office-generation-or-how-microsoft-lost/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/18002326958/post-office-generation-or-how-microsoft-lost
-tumblr_mboverell_id:
-  - "18002326958"
+slug: "/2012/02/post-office-generation-or-how-microsoft-lost/"
 dsq_thread_id:
   - "4439682250"
 categories:

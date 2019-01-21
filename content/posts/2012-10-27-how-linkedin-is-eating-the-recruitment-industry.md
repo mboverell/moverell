@@ -5,11 +5,7 @@ date: 2012-10-27T21:02:19+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/10/27/how-linkedin-is-eating-the-recruitment-industry
-permalink: /2012/10/how-linkedin-is-eating-the-recruitment-industry/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/34439016945/how-linkedin-is-eating-the-recruitment-industry
-tumblr_mboverell_id:
-  - "34439016945"
+slug: "/2012/10/how-linkedin-is-eating-the-recruitment-industry/"
 dsq_thread_id:
   - "4586594701"
 categories:

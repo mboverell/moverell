@@ -5,14 +5,10 @@ date: 2014-02-21T06:44:21+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2014/02/21/open-sourced-feedback-as-startup-ceo
-permalink: /2014/02/open-sourced-feedback-as-startup-ceo/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/77359128697/open-sourced-feedback-as-startup-ceo
-tumblr_mboverell_id:
-  - "77359128697"
+slug: "/2014/02/open-sourced-feedback-as-startup-ceo/"
 dsq_thread_id:
   - "4445683732"
-image: /wp-content/uploads/2013/09/tumblr_mssf1kzdy01r5o6bio1_1280.jpg
+image: /images/2013/09/tumblr_mssf1kzdy01r5o6bio1_1280.jpg
 categories:
   - RecruitLoop
   - Startup Culture
@@ -58,9 +54,9 @@ This is only partly by circumstance: in a team of 3-4 everyone needs to get shit
 As I work on becoming a better startup CEO, I’m focused on 3 requirements of the job:
 
 1. Setting and communicating the vision and direction
-  
+
 2. Building a team of the right people, working together to execute
-  
+
 3. Making sure we have the funds and resources to do it.
 
 I’ll start with a few comments against these points, before expanding on your suggested areas.
@@ -114,7 +110,7 @@ We have raised ~$800K total, just over a long period of time. I didn’t source 
 _**Areas to improve**_
 
 Everything related to my pitch. The content, story and hustle. I think this will get easier with experience, but I know it needs work.
-  
+
 Separately, a better focus and communication of our vision / direction will help excite investors about what we’re doing.
 
 On the points you suggested, I’ve tried to focus on areas I think I can improve.

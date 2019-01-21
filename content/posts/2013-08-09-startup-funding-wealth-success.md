@@ -5,14 +5,10 @@ date: 2013-08-09T20:11:40+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/08/09/startup-funding-wealth-success
-permalink: /2013/08/startup-funding-wealth-success/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/57816242113/startup-funding-wealth-success
-tumblr_mboverell_id:
-  - "57816242113"
+slug: "/2013/08/startup-funding-wealth-success/"
 dsq_thread_id:
   - "4445647087"
-image: /wp-content/uploads/2013/08/Aussie_Recruitment_Marketplace_RecruitLoop_Closes__500_000_Seed_Round_To_Fund_American_Expansion___TechCrunch.png
+image: /images/2013/08/Aussie_Recruitment_Marketplace_RecruitLoop_Closes__500_000_Seed_Round_To_Fund_American_Expansion___TechCrunch.png
 categories:
   - RecruitLoop
   - Startup Culture

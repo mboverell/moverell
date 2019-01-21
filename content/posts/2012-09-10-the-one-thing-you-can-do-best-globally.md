@@ -5,11 +5,7 @@ date: 2012-09-10T13:26:27+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/09/10/the-one-thing-you-can-do-best-globally
-permalink: /2012/09/the-one-thing-you-can-do-best-globally/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/31268881749/the-one-thing-you-can-do-best-globally
-tumblr_mboverell_id:
-  - "31268881749"
+slug: "/2012/09/the-one-thing-you-can-do-best-globally/"
 categories:
   - Startup Culture
 tags:

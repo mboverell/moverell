@@ -5,14 +5,10 @@ date: 2013-07-25T07:28:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/07/25/mac-app-stack-non-tech-founder
-permalink: /2013/07/mac-app-stack-non-tech-founder/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/56409036368/mac-app-stack-non-tech-founder
-tumblr_mboverell_id:
-  - "56409036368"
+slug: "/2013/07/mac-app-stack-non-tech-founder/"
 dsq_thread_id:
   - "4439681465"
-image: /wp-content/uploads/2013/07/2015-03-31-19.06.33-e1451448789523.jpg
+image: /images/2013/07/2015-03-31-19.06.33-e1451448789523.jpg
 categories:
   - GSD
 ---

@@ -5,11 +5,7 @@ date: 2012-04-30T22:03:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/04/30/blackbox-connect-big-brother-meets-the-playboy
-permalink: /2012/04/blackbox-connect-big-brother-meets-the-playboy/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/22147324557/blackbox-connect-big-brother-meets-the-playboy
-tumblr_mboverell_id:
-  - "22147324557"
+slug: "/2012/04/blackbox-connect-big-brother-meets-the-playboy/"
 dsq_thread_id:
   - "4445680925"
 image: /wp-content/uploads/2012/04/tumblr_m3ashtfmlk1r5o6bio1_1280.jpg

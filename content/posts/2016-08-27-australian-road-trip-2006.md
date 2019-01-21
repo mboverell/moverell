@@ -5,7 +5,7 @@ date: 2016-08-27T16:16:32+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=482
-permalink: /2016/08/australian-road-trip-2006/
+slug: "/2016/08/australian-road-trip-2006/"
 dsq_thread_id:
   - "5098344435"
 image: /images/2016/08/1-Long-drive-from-Brisbane-to-Adelaide.jpg

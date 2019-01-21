@@ -5,11 +5,7 @@ date: 2012-01-25T00:42:10+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/01/25/small-employers-regulation-and-a-declining-middle
-permalink: /2012/01/small-employers-regulation-and-a-declining-middle/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/16435592111/small-employers-regulation-and-a-declining-middle
-tumblr_mboverell_id:
-  - "16435592111"
+slug: "/2012/01/small-employers-regulation-and-a-declining-middle/"
 categories:
   - Uncategorized
 tags:

@@ -5,7 +5,7 @@ date: 2018-04-18T23:56:11+00:00
 author: Michael Overell
 layout: post
 guid: http://moverell.com/?p=645
-permalink: /2018/04/a-personal-transition/
+slug: "/2018/04/a-personal-transition/"
 image: /images/2018/04/founders_shot.jpg
 categories:
   - Growing Up

@@ -5,11 +5,7 @@ date: 2013-11-03T23:12:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/11/03/3-things-i-learnt-at-influencehr-nyc-2013
-permalink: /2013/11/3-things-i-learnt-at-influencehr-nyc-2013/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/65940063393/3-things-i-learnt-at-influencehr-nyc-2013
-tumblr_mboverell_id:
-  - "65940063393"
+slug: "/2013/11/3-things-i-learnt-at-influencehr-nyc-2013/"
 dsq_thread_id:
   - "4445643854"
 categories:
@@ -65,13 +61,13 @@ A panel of HR Buyers made it clear this forgetfulness is chronic among HR and Re
 Need evidence you’re dealing with real people?
 
 > _I’ll buy from the salesperson I like most._
-> 
+>
 > _If you don’t demonstrate you understand my problems in the first 5 minutes, you’re out._
-> 
+>
 > _I need honesty. Don’t pretend to be something you’re not._
-> 
+>
 > _It’s about relationship. I don’t want to be another client number._
-> 
+>
 > _I’ll forgive mistakes if you show me you care._
 
 Most of this is just &#8216;Consultative Sales 101’. But it’s painfully obvious too many marketers and salespeople throw common sense out the window in the hunt for quarterly targets.

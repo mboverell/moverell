@@ -5,11 +5,7 @@ date: 2012-12-14T20:28:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2012/12/14/getting-shit-done-with-trello
-permalink: /2012/12/getting-shit-done-with-trello/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/37906527558/getting-shit-done-with-trello
-tumblr_mboverell_id:
-  - "37906527558"
+slug: "/2012/12/getting-shit-done-with-trello/"
 dsq_thread_id:
   - "4445670081"
 image: /wp-content/uploads/2012/12/tumblr_mf0x0kvm6r1r5o6bio1_1280.png

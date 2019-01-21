@@ -5,11 +5,7 @@ date: 2013-04-22T01:05:00+00:00
 author: Michael Overell
 layout: post
 guid: https://moverell.wordpress.com/2013/04/22/moving-to-america
-permalink: /2013/04/moving-to-america/
-tumblr_mboverell_permalink:
-  - http://mboverell.tumblr.com/post/48574821582/moving-to-america
-tumblr_mboverell_id:
-  - "48574821582"
+slug: "/2013/04/moving-to-america/"
 dsq_thread_id:
   - "4439683011"
 image: /wp-content/uploads/2013/04/tumblr_mlfubbciik1r5o6bio1_1280.jpg
