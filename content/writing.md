@@ -1,7 +1,7 @@
 ---
 title: "Things I've Written"
 date: 2019-01-12T13:32:59-08:00
-draft: true
+draft: false
 ---
 > [See all posts here](/posts)
 
