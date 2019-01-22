@@ -1,4 +1,4 @@
-baseurl = "http://moverell.com"
+baseurl = "http://www.moverell.com"
 title = "Michael Overell"
 
 theme = "hugo-coder"
