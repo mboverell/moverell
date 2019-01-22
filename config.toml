@@ -15,7 +15,7 @@ googleAnalytics = "UA-23074123-1"
 disqusShortname = "moverell"
 
 [permalinks]
-    post = "/:year/:month/:slug/"
+    posts = "/:year/:month/:slug/"
 
 [params]
     author = "Michael Overell"
