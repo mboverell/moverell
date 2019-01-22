@@ -28,8 +28,3 @@ HUGO_VERSION = "0.53"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-# A basic redirect rule
-[[redirects]]
-  from = "/posts/*"
-  to = ":slug"
