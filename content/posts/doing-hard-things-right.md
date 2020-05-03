@@ -2,7 +2,7 @@
 title: "Doing Hard Things Right"
 description: "If you’re a founder or business leader faced with doing hard things in this hot mess, try to do them right."
 date: 2020-05-03T14:59:11-07:00
-slug: "posts/2020/05/doing-hard-things-right/"
+slug: "doing-hard-things-right/"
 draft: false
 ---
 
