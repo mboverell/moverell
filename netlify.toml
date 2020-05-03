@@ -29,5 +29,8 @@ HUGO_VERSION = "0.53"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-# Redirect default Netlify subdomain to primary domain
-https://moverell.netlify.com/* https://moverell.com/
+[[redirects]]
+  from = "https://moverell.netlify.com"
+  to = "https://moverell.com"
+  status = 301
+  force = true
