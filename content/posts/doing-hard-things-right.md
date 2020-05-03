@@ -23,7 +23,7 @@ I’m not authorised to speak on behalf of Lyft, so won’t discuss specifics be
 If you need a more concrete playbook, start with [this post](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d) from the CEO of Carta. It’s an exceptional example of clear communication in crisis, treating people like adults, and with compassion. There's also a chapter in [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) titled _"the right way to lay people off"_. If you're a founder who hasn't read this book, stop everything and devour it.
 
 On the flip side, there's probably a few things in [this description](https://www.theverge.com/2020/4/23/21231802/bird-electric-scooter-company-workplace-culture-layoffs) of recent layoffs at Bird you should avoid doing.
-# Treating people with dignity and respect
+## Treating people with dignity and respect
 Once you've decided what needs to happen, your goal should be to build and execute a plan that treats people with dignity and respect. This may be the only thing they remember about your company.
 
 - **Define goals and decision-making criteria.** Do you need to reduce a fixed number of roles, or achieve a dollar target? How will you decide who to keep vs layoff? Who will make these decisions, and how will they be reviewed? One legal and cultural risk is the perception (or reality) that some groups of employees are more impacted than others. Examine your plans with this lens, and your legal team, before committing anything.
@@ -33,7 +33,7 @@ Once you've decided what needs to happen, your goal should be to build and execu
 - **Be generous.** Make your exit packages as generous as you can afford. Pull every lever available – including non-financial measures like ongoing access to certain company benefits. In the US, the biggest concern for many people is losing access to health insurance. People on working visas have a deadline to find another job or leave the country. Explore creative options for both situations, if you can. Some leaders may question this imperative, especially for a company under financial stress. But this will be the main thing many departing employees remember about your company. It also sends an important signal to everyone who remains.
 - **Communicate broadly and openly.** You need a comms plan for the entire company, not just people being laid off. Again, [this post](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d) from Carta is a stellar example. Provide as much clarity and transparency into the process as possible without creating legal risks. Treat your people as adults.
 - **Help people with their next step.** This can be as simple as a LinkedIn recommendation, offers of referral or introductions. Bigger companies might consider access to recruiting support or outplacement resources.
-# Managing the recovery
+## Managing the recovery
 Layoffs are terrible for people directly impacted. They are also extremely hard for leaders involved, and everyone who remains. You'll need a strong, credible plan for supporting people through the recovery, to avoid layoffs having ongoing costs to morale, well-being, productivity and retention.
 
 - **Have a plan for day 1.** Day zero will be focused on exiting departing employees with as much dignity and respect as possible. Day one is about those who remain. Have a comms plan at multiple levels. Checkin with people individually. Provide support, resources and space.
