@@ -16,7 +16,6 @@ disqusShortname = "moverell"
 
 [permalinks]
     posts = "/:year/:month/:slug/"
-    post = "/:year/:month/:slug/"
 
 [params]
     author = "Michael Overell"
