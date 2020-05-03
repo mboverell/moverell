@@ -30,4 +30,4 @@ HUGO_VERSION = "0.53"
 HUGO_ENABLEGITINFO = "true"
 
 # Redirect default Netlify subdomain to primary domain
-https://moverell.netlify.com/* https://moverell.com/:splat 301!
+https://moverell.netlify.com/* https://moverell.com/
