@@ -46,6 +46,8 @@ On a positive note, we had more time with our kids than ever before, and maybe e
 
 {{< figure src="/images/2020/12/kids.png">}}
 
+__My wife is a boss__ (in the best possible way). We shared a workspace for most of the year. It was the first time I'd really seen her in action in a professional context. The way she balances being a mother, wife and leader at work is inspiring a little humbling. I already knew this, but know I _really know it_. Huge highlight of the year.
+
 __It was the year of the family Zoom.__
 The biggest challenge was feeling distant from family in Australia, and fear in our inability to just jump on a flight for any reason, if they needed us or we needed them. Facetime helped, and storytime with grandma(s) became an almost daily event. But it was the first time in ~8yrs living in California that I'd really felt the distance.
 
