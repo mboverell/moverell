@@ -10,7 +10,9 @@ The year felt like a decade.
 
 Big picture we're fine, maybe great. We didn't lose a loved one, our incomes, go hungry, get covid, or suffer unfair treatment from police or institutions. Things can always be worse, and I'm grateful we're OK.
 
-But California felt a constant state of siege. Covid, police brutality, social unrest, shops boarded up and tear gas in the streets. Summer covid spike, then brutal wildfires. The election. Kids and parents under the same roof for 9mths straight. The dark covid winter with a growing death-count and incompetence or just indifference to vaccinate the people who need it most as quickly as possible.
+But California felt a constant state of siege.
+
+Covid, police brutality, social unrest, shops boarded up and tear gas in the streets. Summer covid spike, then brutal wildfires. The election. Kids and parents under the same roof for 9mths straight. The dark covid winter with a growing death-count and incompetence or just indifference to vaccinate the people who need it most as quickly as possible.
 
 We don't need more words on any of these topics, but it's context to remind myself just what it was like this year. With that, my review of the things I could mostly control.
 
@@ -66,10 +68,11 @@ Transitioning roles in a pandemic was very weird. I still haven't met most of my
 
 ## Growth + Learning
 Finished 14 books, and started but dropped another handful (I've realised I should just stop reading when something doesn't capture me). Top 3 were all biographies, which I love as audio-books:
-- [Alexander Hamilton, Ron Chernow](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758)
-- [The House of Morgan, Ron Chernow](https://www.amazon.com/The-House-of-Morgan-Ron-Chernow-audiobook/dp/B00I3P36ZU/ref=sr_1_1)
-- [The Ride of a Lifetime, Bob Iger](https://www.amazon.com/Ride-Lifetime-Lessons-Learned-Company/dp/0399592091)
-- [Here's the longer list]({{< ref "reading.md" >}}).
+
+  - [Alexander Hamilton, Ron Chernow](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758)
+  - [The House of Morgan, Ron Chernow](https://www.amazon.com/The-House-of-Morgan-Ron-Chernow-audiobook/dp/B00I3P36ZU/ref=sr_1_1)
+  - [The Ride of a Lifetime, Bob Iger](https://www.amazon.com/Ride-Lifetime-Lessons-Learned-Company/dp/0399592091)
+  - [Here's the longer list]({{< ref "reading.md" >}}).
 
 Took a [Reforge](https://www.reforge.com/) course on pricing and monetization, which was OK but did give me some helpful frameworks going into my new role.
 
