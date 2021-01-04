@@ -1,6 +1,6 @@
 ---
 title: "2020 in Review"
-description: "If you’re a founder or business leader faced with doing hard things in this hot mess, try to do them right."
+description: "The year felt like a decade, but I'm grateful for so much. Let's get vaccinated!"
 date: 2020-12-31
 slug: "2020-in-review/"
 draft: false
