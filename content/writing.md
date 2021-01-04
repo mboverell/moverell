@@ -8,6 +8,7 @@ draft: false
 I love writing, but don’t do nearly enough. Here’s a collection of articles and essays I’ve posted around the web.
 
 ### Startup Journey, Growing Up, Personal Stuff
+- [2020 in Review]({{< ref "2020-12-2020-in-review.md"}})
 - [2018 in Review]({{< ref "2018-12-31-2018-in-review.md" >}})
 - [A Personal Transition]({{< ref "2018-04-18-a-personal-transition.md" >}})
 - [Why You Won't See Our Baby on Facebook]({{< ref "2016-01-07-why-you-wont-see-our-baby-on-facebook.md" >}})
@@ -31,6 +32,7 @@ I love writing, but don’t do nearly enough. Here’s a collection of articles 
 - [How LinkedIn is Eating the Recruitment Industry](https://www.ere.net/how-linkedin-is-eating-the-recruitment-industry/) – ere Media
 
 ### Modern Work
+- [Doing Hard Things Right]({{< ref "2020-05-doing-hard-things-right.md"}})
 - [Going Remote First]({{< ref "2016-10-11-going-remote-first.md" >}})
 - [How I’m Getting Sh*t Done With Trello]({{< ref "2012-12-14-getting-shit-done-with-trello.md" >}})
 - [10 Platforms Powering the Next Generation of Small Business](https://www.huffingtonpost.com/young-entrepreneur-council/10-platforms-powering-the_b_12121738.html) – The Huffington Post (2017)
