@@ -3,11 +3,11 @@ title: "Hi, I'm Mike"
 date: 2019-01-12T13:32:59-08:00
 draft: false
 ---
-I'm an Australian living in Oakland, California with my wife, two daughters, and [good dog](https://www.instagram.com/p/Bs1lxcUn9jTGzlR-lZ0sSU3KbXZLjUYTb3i7nw0/).
+I'm an Australian living in California with my wife, three daughters, and [good dog](https://www.instagram.com/p/Bs1lxcUn9jTGzlR-lZ0sSU3KbXZLjUYTb3i7nw0/).
 
-I work at [Lyft](http://lyft.com), started [RecruitLoop](http://recruitloop.com), and invest in great companies through [Startmate](http://startmate.com.au). Previously I worked at McKinsey.
+I build the business at **ClassDojo**. Before that: [Lyft](http://lyft.com), startup founder, consulting. I love supporting early-stage founders, and have invested in +20 companies—mostly in AI, saas, marketplaces. Also started **Antipodes**, a collective of founders and operators that back foreign founders making a dent in the US.
 
-This site is my personal collection of work, ideas and content. It's work in progress. All opinions my own.
+This site is my personal collection of things I'm working on or thining about. It's all work in progress.
 
 You'll find me on [Twitter](http://twitter.com/mboverell), [LinkedIn](http://linkedin.com/in/michaeloverell), and [Instagram](http://instagram.com/mboverell). Say hi!
 
