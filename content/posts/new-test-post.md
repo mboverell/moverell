@@ -1,7 +1,7 @@
 +++
 draft = true
-date = 2025-04-12T21:41:14-08:00
-title = "test post from ipad"
+date = 2019-01-21T21:41:14-08:00
+title = "Hey I am making a test post"
 description = "This is the first real post I am making on Hugo"
 slug = "hello-world"
 tags = []
