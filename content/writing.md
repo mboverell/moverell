@@ -3,7 +3,7 @@ title: "Things I've Written"
 date: 2019-01-12T13:32:59-08:00
 draft: false
 ---
-> [See all posts here](/posts)
+> Sort by: TOPIC | [TIMELINE](/posts)
 
 I love writing, but don’t do nearly enough. Here’s a collection of articles and essays I’ve posted around the web.
 
