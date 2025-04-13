@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Michael Overell"
+title = "Mike Overell"
 
 theme = "hugo-coder"
 
@@ -18,8 +18,8 @@ disqusShortname = "moverell"
     posts = "/:year/:month/:slug/"
 
 [params]
-    author = "Michael Overell"
-    description = "Michael Overell's personal website"
+    author = "Mike Overell"
+    description = "Mike Overell's personal website"
     keywords = "blog,personal"
     info = "work in progress"
     avatarurl = "images/headshot_moverell.jpg"
@@ -63,13 +63,13 @@ disqusShortname = "moverell"
 [languages]
     [languages.en]
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Michael Overell"
+        title = "Mike Overell"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-        author = "Michael Overell"
+        author = "Mike Overell"
         info = "work in progress"
-        description = "Michael Overell's personal website"
+        description = "Mike Overell's personal website"
         keywords = "blog,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
