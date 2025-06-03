@@ -34,7 +34,7 @@ Trained for the Belgian Waffle Ride—a brutal, beautiful endurance event on gra
 
 **Baum (2025, 2020)**
 
-A custom titanium bike, from Australia’s best builder (Darren Baum). Designed to be the only bike I’ll ever need. Now on its second iteration, after an accident in 2024. Same frame, new color.
+A custom titanium bike, from Australia’s best builder (Darren Baum). Designed to be the only bike I’ll ever need. Now on its second iteration, after an accident in 2024. Same frame, new color. [v1 pics](https://www.flickr.com/photos/baumcycles/albums/72177720295946088/with/51820067660) // v2 (coming)
 
 **Founder Journey: RecruitLoop (2011-2017)**
 
