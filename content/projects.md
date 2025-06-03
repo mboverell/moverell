@@ -8,12 +8,15 @@ draft: false
 
 ## Active
 **The New Literacies**
+
 A personal project to explore how to help my kids grow up ready for a world shaped by AI. Focused on the things school doesn’t cover. I’m testing things at home, and sharing what seems to have value.
 
 **Music**
+
 I started learning piano in 2024. These are recordings of a few pieces I invested more than a month in learning. Mostly late at night, for the joy of progress and sharing with other people.
 
 **Angel Investing**
+
 I’ve backed 15 early-stage companies, mostly founders from outside the US trying to break in. I slowed down after having our 3rd kid, but aiming to keep a steady pace of 2-3 a year—only where I can be useful in some way.
 
 ## Previous
