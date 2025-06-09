@@ -19,9 +19,20 @@ If any of this connects with you, I’d love to hear from you.
 - **What made it challenging:** I don’t read sheet music, so had to transcribe it from YouTube videos and ear.
 - This version recorded: June 2025 (after upgrading my keyboard).
 
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/DXTZVsrWqs4" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## Avril 14th / Aphex Twin
 - **Why I chose this song:** I’d always loved the melody, timing, and juxtaposition of each section.
 - **When I started:** July 2024, and worked on it until November.
 - **What made it challenging:** It was my first real attempt at playing independent left/right hands—a big leap for me at the time.
 - This version recorded: June 2025 (after upgrading my keyboard). 
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/ilCYaSHDkpw" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
