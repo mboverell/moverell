@@ -85,6 +85,6 @@ disqusShortname = "moverell"
         url = "/writing/"
 
         [[languages.en.menu.main]]
-        name = "Reading"
+        name = "Projects"
         weight = 3
-        url = "/reading/"
+        url = "/projects/"
