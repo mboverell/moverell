@@ -18,7 +18,7 @@ I started learning piano in 2024, with a 5-year goal to become a decent amateur.
 
 **Angel Investing**
 
-I love supporting early-stage founders—especially outsiders with global ambition. I’ve backed 15+ companies so far. Slowed the pace after having our 3rd kid, and only invest when I can be unusually helpful. Aim for 2-3 new investments a year. 
+I love supporting early-stage founders—especially outsiders with global ambition. I’ve backed 20+ companies so far. Slowed the pace after having our 3rd kid, and only invest when I can be unusually helpful. Aim for 2-3 new investments a year. 
 
 ## / Previous
 **Antipodes (2021-2023)**

@@ -17,7 +17,7 @@ If any of this connects, I’d love to hear from you.
 - **What made it challenging:** I don’t read sheet music, so had to transcribe it from YouTube videos and ear.
 - This version recorded: June 2025 (after upgrading my keyboard).
 
-{{< youtube id=“DXTZVsrWqs4” >}}
+{{< youtube DXTZVsrWqs4 >}}
 
 ## Avril 14th / Aphex Twin
 - **Why I chose this song:** I’d always loved the melody, timing, and juxtaposition of each section.
@@ -25,4 +25,4 @@ If any of this connects, I’d love to hear from you.
 - **What made it challenging:** It was my first real attempt at playing independent left/right hands—a big leap for me at the time.
 - This version recorded: June 2025 (after upgrading my keyboard). 
 
-{{< youtube id=“ilCYaSHDkpw” >}}
+{{< youtube ilCYaSHDkpw >}}
