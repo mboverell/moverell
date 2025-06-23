@@ -6,7 +6,7 @@ draft: false
 
 > Things I’ve invested energy into at different times—for learning, meaning, or fun.
 
-## /Active
+## / Active
 
 **New Literacies**
 
@@ -20,7 +20,7 @@ I started learning piano in 2024, with a 5-year goal to become a decent amateur.
 
 I love supporting early-stage founders—especially outsiders with global ambition. I’ve backed 15+ companies so far. Slowed the pace after having our 3rd kid, and only invest when I can be unusually helpful. Aim for 2-3 new investments a year. 
 
-## /Previous
+## / Previous
 **Antipodes (2021-2023)**
 
 An investing syndicate I started with [some impressive friends](http://antipodes.vc/team), to back foreign founders looking to crack the US. We invested in 6 companies, with checks ranging from $25K-$250K—alongside the best investors in ANZ. Currently on hold.
@@ -55,4 +55,4 @@ One of my early career forks. I turned down a grad offer at PwC ($30K package) i
 
 **Henry Hiace (2005-2008)**
 
-A 1990 Toyota campervan I drove across Australia with my girlfriend (now wife). We lived on $25 a day, used paper maps, and saw some unforgettable parts of the country. Then sold it for a profit.
+A 1990 Toyota campervan I [drove across Australia](https://moverell.com/2016/08/2016/08/australian-road-trip-2006/) with my girlfriend (now wife). We lived on $25 a day, used paper maps, and saw some unforgettable parts of the country. Then sold it for a profit.
